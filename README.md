@@ -11,7 +11,7 @@ LIVE: https://andrzejszlachta.github.io/spock-rock-game/
 
 ## Overview
 
-description
+Play Rock Paper Scissors Lizard Spock Game!
 
 ### Built With
 
@@ -19,7 +19,10 @@ HTML, CSS, JavaScript
 
 ## Features
 
-1. feature 1
+1. Play game
+2. Count points
+3. Confetti when you win!
+4. Reset game
 
 ## Contact
 
@@ -28,4 +31,4 @@ https://andrzejszlachta.github.io/
 
 ## Acknowledgements
 
-acknowledgments 
+Confetti.js https://www.cssscript.com/confetti-falling-animation/  
